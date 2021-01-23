@@ -5,7 +5,9 @@
     <classes>
       <class name="Testsag.KeyEvents">
         <methods>
+          <include name="ContMenu"/>
           <include name="Key"/>
+          <include name="DispEle"/>
         </methods>
       </class> <!-- Testsag.KeyEvents -->
     </classes>
